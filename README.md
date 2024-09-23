@@ -1,4 +1,4 @@
-# Привет мир <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+# Привет мир <img src="https://github.com/Vadim-Kolesnikov/Vadim-Kolesnikov/blob/main/hand.gif" width="25">
 
 ## 🧾 Немного обо мне
 
