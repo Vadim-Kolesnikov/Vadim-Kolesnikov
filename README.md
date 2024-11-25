@@ -24,7 +24,7 @@ Backend разработчик. Специализируюсь на разраб
 </div>
 
 
-## 🌐 Socials
+## 🌐 Контакты
 
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](koleso3576@gmail.com)
 [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=30A0E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/vadim_132132)
